@@ -31,7 +31,7 @@ class StudiKasus2_24 {
             } else {
                 System.out.println("Status : Bukan Juara 1, 2, atau 3. Dana penghargaan tidak diberikan.");
             }
-
+ 
         } else if (jenis.equalsIgnoreCase("PKM")) {
             System.out.print("Jumlah dokumen : ");
             int jumlahDokumen = input.nextInt();
